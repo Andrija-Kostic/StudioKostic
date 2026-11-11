@@ -1,9 +1,3 @@
-<!-- PROFIL STUDIJA (GitHub organizacija)
-     1. U organizaciji napravi Public repozitorijum sa imenom ".github"
-     2. U njemu napravi fajl "profile/README.md" i nalepi ovaj sadržaj
-     3. U folder "profile" otpremi: banner-studiokostic.png i sertifikat-freecodecamp.jpg
-     4. Zameni ORGANIZACIJA imenom tvoje organizacije (2 mesta) i sve sa ZAMENI -->
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/ORGANIZACIJA/.github/main/profile/banner-studiokostic.png" alt="StudioKostić" width="100%">
 </p>
