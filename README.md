@@ -1,5 +1,9 @@
+<!-- README za repozitorijum StudioKostic (github.com/Andrija-Kostic/StudioKostic)
+     U koren repozitorijuma otpremi: README.md, banner-studiokostic.png i sertifikat-freecodecamp.jpg
+     Zameni sve što je označeno sa ZAMENI. -->
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/StudioKostić/StudioKostić/main/banner-studiokostic.png" alt="StudioKostić" width="100%">
+  <img src="banner-studiokostic.png" alt="StudioKostić" width="100%">
 </p>
 
 <h3 align="center">Brend koji izgleda kao da je tu oduvek.</h3>
@@ -77,15 +81,22 @@
 
 ---
 
-## Sertifikat
+## Sertifikati
 
 <p>
   <a href="https://www.freecodecamp.org/certification/fcc-863b9bcf-d489-43a1-9b8f-8b31008b418e/scientific-computing-with-python-v7">
-    <img src="https://raw.githubusercontent.com/StudioKostić/StudioKostić/main/sertifikat-freecodecamp.jpg" alt="freeCodeCamp: Scientific Computing with Python" width="520">
+    <img src="sertifikat-freecodecamp.jpg" alt="freeCodeCamp: Scientific Computing with Python" width="520">
   </a>
 </p>
 
 **Scientific Computing with Python**, freeCodeCamp, Developer Certification (jul 2026, oko 300 sati rada). [Proveri sertifikat](https://www.freecodecamp.org/certification/fcc-863b9bcf-d489-43a1-9b8f-8b31008b418e/scientific-computing-with-python-v7)
+
+**Akademija Oxford, Jagodina (decembar 2025, po 27 školskih časova)**
+
+- Adobe Photoshop, osnovni nivo
+- Adobe Illustrator, osnovni nivo
+- Korišćenje veštačke inteligencije, AI alati
+- Multimedijalni alati
 
 ---
 
