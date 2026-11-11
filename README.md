@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ORGANIZACIJA/.github/main/profile/banner-studiokostic.png" alt="StudioKostić" width="100%">
+  <img src="https://raw.githubusercontent.com/StudioKostić/StudioKostić/main/banner-studiokostic.png" alt="StudioKostić" width="100%">
 </p>
 
 <h3 align="center">Brend koji izgleda kao da je tu oduvek.</h3>
@@ -81,7 +81,7 @@
 
 <p>
   <a href="https://www.freecodecamp.org/certification/fcc-863b9bcf-d489-43a1-9b8f-8b31008b418e/scientific-computing-with-python-v7">
-    <img src="https://raw.githubusercontent.com/ORGANIZACIJA/.github/main/profile/sertifikat-freecodecamp.jpg" alt="freeCodeCamp: Scientific Computing with Python" width="520">
+    <img src="https://raw.githubusercontent.com/StudioKostić/StudioKostić/main/sertifikat-freecodecamp.jpg" alt="freeCodeCamp: Scientific Computing with Python" width="520">
   </a>
 </p>
 
