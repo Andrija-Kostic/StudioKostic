@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://studiokostic.com/sitemap.xml
+Sitemap: https://andrija-kostic.github.io/StudioKostic/sitemap.xml
