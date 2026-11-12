@@ -1,7 +1,3 @@
-<!-- README za repozitorijum StudioKostic (github.com/Andrija-Kostic/StudioKostic)
-     U koren repozitorijuma otpremi: README.md, banner-studiokostic.png i sertifikat-freecodecamp.jpg
-     Zameni sve što je označeno sa ZAMENI. -->
-
 <p align="center">
   <img src="banner-studiokostic.png" alt="StudioKostić" width="100%">
 </p>
@@ -13,9 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://studiokostic.com"><img src="https://img.shields.io/badge/Sajt-studiokostic.com-0d2d6b?style=for-the-badge" alt="Sajt"></a>
+  <a href="https://andrija-kostic.github.io/StudioKostic/"><img src="https://img.shields.io/badge/Sajt-StudioKostic-0d2d6b?style=for-the-badge" alt="Sajt"></a>
   <a href="https://instagram.com/studiokostic"><img src="https://img.shields.io/badge/Instagram-@studiokostic-1b5fb8?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://discord.gg/ZAMENI"><img src="https://img.shields.io/badge/Discord-StudioKostić-2f7be0?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 ---
@@ -51,8 +46,6 @@
 
 ## Alati
 
-<!-- ZAMENI: ostavi samo alate koje stvarno koristiš -->
-
 **Dizajn**
 
 <p>
@@ -76,7 +69,7 @@
 <p>
   <img src="https://img.shields.io/badge/Git-0d2d6b?style=flat-square&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-1b5fb8?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/Netlify-2f7be0?style=flat-square&logo=netlify&logoColor=white" alt="Netlify">
+  <img src="https://img.shields.io/badge/GitHub_Pages-2f7be0?style=flat-square&logo=github&logoColor=white" alt="GitHub Pages">
 </p>
 
 ---
@@ -104,6 +97,6 @@
 
 Opiši nam u par rečenica šta ti treba, pa ćemo zajedno dogovoriti sledeći korak.
 
-**Instagram:** [@studiokostic](https://instagram.com/studiokostic) &nbsp;·&nbsp; **Sajt:** [studiokostic.com](https://studiokostic.com)
+**Instagram:** [@studiokostic](https://instagram.com/studiokostic) &nbsp;·&nbsp; **Sajt:** [andrija-kostic.github.io/StudioKostic](https://andrija-kostic.github.io/StudioKostic/)
 
-<p align="center"><sub>© 2026 StudioKostić</sub></p>
+<p align="center"><sub>© 2026 StudioKostić</sub></p>  
